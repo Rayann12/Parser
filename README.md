@@ -20,4 +20,4 @@ gcc lex.yy.c y.tab.c -ll
 
 ./a.out
 
-At this point your code should be good and running
+At this point your code should be running successfully.
