@@ -2,13 +2,13 @@ First enter in the terminal the following command:
 
 gedit Lex_Part.l
 
-Save the Lex_Part.l file in the opened file in file editor.
+Save the Lex_Part.l file contents in the opened file in file editor (copy paste).
 
 Second enter in the terminal the following command:
 
 gedit Yacc_Part.y
 
-Save the Lex_Part.l file in the opened file in file editor.
+Save the Lex_Part.l file contents in the opened file in file editor(copy paste).
 
 Lastly do the following 4 commands to execute the parser:
 
